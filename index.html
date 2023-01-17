@@ -1,14 +1,73 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <script src="index.js"></script>
-    <link rel="stylesheet" href="index.css">
-</head>
-<body>
-    
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Awesome Books</title>
+    <script type="module" src="index.js" defer></script>
+    <link rel="stylesheet" href="index.css" />
+  </head>
+
+  <body>
+    <nav>
+      <div>Awesome books</div>
+      <menu>
+        <div class="listBtn">List</div>
+        <div class="add_newBtn">Add new</div>
+        <div class="contactBtn">Contact</div>
+      </menu>
+    </nav>
+
+    <div class="date" id="date"></div>
+
+    <section class="list">
+      <h1>All awesome books</h1>
+      <ul id="booklist"></ul>
+    </section>
+
+    <section class="add_new hidden">
+      <form action="">
+        <h2>Add a new Book</h2>
+        <div>
+          <input
+            required
+            type="text"
+            id="title"
+            name="title"
+            placeholder="Title"
+          />
+        </div>
+        <div>
+          <input
+            required
+            type="text"
+            id="author"
+            name="author"
+            placeholder="Author"
+          />
+        </div>
+        <button id="add_button">Add</button>
+      </form>
+      <p id="message"></p>
+    </section>
+
+    <section class="contact hidden">
+      <h2>Contact Information</h2>
+      <p>
+        Do you have any questions or you just want to say hello <br />You can
+        reach out to us
+      </p>
+      <ul>
+        <li>Our E-mail: victorchiemerie02@gmail.com</li>
+        <li>Our Phone number: +234-813-0410-150</li>
+        <li>
+          Our Address: Plot 69 Redemption Housing Estate Obinze, IMO State
+          Nigeria
+        </li>
+      </ul>
+    </section>
+
+    <footer>Copyright ...</footer>
+  </body>
 </html>
