@@ -22,7 +22,7 @@ const buttonAdd = document.getElementById('add_button');
 
 const obj = new Library();
 
-function printBooks() {
+printBooks = () => {
   const shelf = JSON.parse(localStorage.getItem('shelf')) || [];
   let innerhtml = '';
 

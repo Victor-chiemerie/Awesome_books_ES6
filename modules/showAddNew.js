@@ -1,4 +1,4 @@
-export default function showAddNew() {
+export default showAddNew = () => {
   const list = document.querySelector('.list');
   const addNew = document.querySelector('.add_new');
   const contact = document.querySelector('.contact');
