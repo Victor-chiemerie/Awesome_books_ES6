@@ -145,7 +145,7 @@ Example command:
 ### Setup
 
 Clone this repository to your desired folder:
-https://github.com/Donmark2k/Awesome_books_ES6.git
+https://github.com/Victor-chiemerie/Awesome_books_ES6
 
 Example commands:
 
@@ -158,7 +158,7 @@ Example commands:
 
 Install this project with:
 - cd my-folder
--  git clone https://github.com/donmark2k/Awesome_books_ES6.git
+-  git clone https://github.com/Victor-chiemerie/Awesome_books_ES6
 
 install npx
 
@@ -225,9 +225,9 @@ Example:
 
  👤**Chukwuemeka Ochuba**
 
-- GitHub: [@Donmark2k](https://github.com/Donmark2k)
-- Twitter: [@Donmark2k](https://twitter.com/donmark2k)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/chukwuemeka-ochuba/)
+- GitHub: [@Bobby](https://github.com/Victor-chiemerie)
+- Twitter: [@Bobby](https://twitter.com/VictorChiemer20)
+- LinkedIn: [@Bobby](https://www.linkedin.com/in/victor-chiemerie-460475246/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -253,7 +253,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-[Victor Chiemerie](https://github.com/Victor-chiemerie) has been of tremendous help so far.
+[Donmark2k](https://github.com/Donmark2k) has been of tremendous help so far.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
