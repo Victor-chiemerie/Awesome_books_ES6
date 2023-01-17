@@ -1,4 +1,4 @@
-export default showContact = () => {
+const showContact = () => {
   const list = document.querySelector('.list');
   const addNew = document.querySelector('.add_new');
   const contact = document.querySelector('.contact');
@@ -14,4 +14,6 @@ export default showContact = () => {
     addNewBtn.style.color = 'black';
     contactBtn.style.color = 'rgb(55, 135, 172)';
   });
-}
+};
+
+export default showContact;
